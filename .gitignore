@@ -1,0 +1,11 @@
+*.pyc
+__pycache__/
+
+*.log
+
+.vscode/
+
+
+secret_config.pygi
+
+myenv/
